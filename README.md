@@ -20,7 +20,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   
   _Performance analysis of distributed ledger solutions._ The scope of my research during this period was the rigorous measurement-based performance analysis of DLT frameworks. The main focus of my work was the systematic performance measurement and analysis of the Hyperledger Fabric DLT platform, including the detailed supporting methodologies across the entire life-cycle of the measurement campaign.
 
-## <i class="fas fa-code-branch fa-fw"></i> Projects
+## <i class="fas fa-desktop fa-fw"></i> Projects
 - 2023 - present: **Ongoing projects @ ftsrg**  
   
   _Technical lead, system design and consultation._ I provide technical-level system design and consultation for ongoing projects concerning DLT-based data management solutions.
@@ -31,7 +31,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   
   _Key participant in research and development._ The project targeted the performance and robustness assessment of the Hyperledger Fabric platform in the presence of faulty smart contracts, achieved using software fault injection. I designed and implemented the deployment, measurement, and workload generation aspects of the project. Furthermore, I was a key participant in the analysis of the gathered measurement data.
 
-## <i class="fas fa-desktop fa-fw"></i> Tools / Opensource
+## <i class="fas fa-code-branch fa-fw"></i> Tools / Opensource
 - 2021 - present: **Hyperledger Caliper @ Linux/Hyperledger Foundation** [<i class="fab fa-github"></i>](https://github.com/hyperledger/caliper)
 
   _Maintainer/principal developer._ Caliper is an open-source, scalable, and flexible tool for the benchmarking of blockchain technologies, governed by the Linux Foundation. I am among the principal developers of the project, shaping its architecture and feature set, following best practices I gather during my own research.
