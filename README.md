@@ -20,7 +20,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   
   _Performance analysis of distributed ledger solutions._ The scope of my research during this period was the rigorous measurement-based performance analysis of DLT frameworks. The main focus of my work was the systematic performance measurement and analysis of the Hyperledger Fabric DLT platform, including the detailed supporting methodologies across the entire life-cycle of the measurement campaign.
 
-## <i class="fas fa-solid fa-brackets-curly fa-fw"></i> Projects
+## <i class="fas fa-code-branch fa-fw"></i> Projects
 - 2023 - present: **Ongoing projects @ ftsrg**  
   
   _Technical lead, system design and consultation._ I provide technical-level system design and consultation for ongoing projects concerning DLT-based data management solutions.

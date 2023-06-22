@@ -40,7 +40,7 @@
           <i class="fas fa-envelope fa-fw"></i> {{ site.mail }}<br />
         {% endif %}
         {% if site.cv %}
-          <i class="fas fa-file-pdf fa-fw"></i> <a href="{{ site.cv }}">Short CV</a> &nbsp; <a href="{{ site.cvlong }}">Long CV</a><br />
+          <i class="fas fa-file-pdf fa-fw"></i> <a href="{{ site.cv }}">CV</a> <br />
         {% endif %}
 		  <i class="far fa-file-alt fa-fw"></i> <a href="publications.html">Publications</a><br />
         </p>
@@ -55,8 +55,8 @@
         {% if site.scholar %}
           <a href="https://scholar.google.hu/citations?user={{ site.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
         {% endif %}
-        {% if site.dblp %}
-          <a href="{{ site.dblp }}"><i class="ai ai-dblp-square ai-2x"></i></a>
+        {% if site.mtmt %}
+          <a href="{{ site.mtmt }}"><i class="fas fa-book fa-2x"></i></a>
         {% endif %}
         {% if site.twitter %}
           <a href="https://twitter.com/{{ site.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
